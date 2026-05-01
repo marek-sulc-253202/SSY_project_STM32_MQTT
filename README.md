@@ -65,7 +65,7 @@ Použitá knihovna:
 
 ---
 
-## 🧠 Architektura projektu
+## Architektura projektu
 
 ### Hlavní komponenty:
 
@@ -81,7 +81,7 @@ main.c
 
 ---
 
-## 🔌 CLI příkazy
+## CLI příkazy
 
 ### Síť
 
@@ -112,7 +112,7 @@ SENZOR OFF
 
 ---
 
-## 📡 Sensor logika
+## Sensor logika
 
 IR senzor digitální výstup je připojen na GPIO PF14.
 
@@ -127,7 +127,7 @@ DETECTED → MQTT publish "mqtt/4"
 
 ---
 
-## ⚙️ CubeMX konfigurace
+## CubeMX konfigurace
 
 ### PINY
 Displej:
@@ -151,11 +151,11 @@ Senzor:
 ---
 
 ## Foto zapojení
-![Schéma systému](/zapojeni.jpg)
+![Foto zapojeni senzoru a displeje](/zapojeni.jpg)
 
 ---
 
-## 🚀 Možné rozšíření
+## Možné rozšíření
 
 - MQTT TLS (secure connection)
 - RTOS (FreeRTOS)
@@ -166,6 +166,6 @@ Senzor:
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Marek Šulc ID:253202
